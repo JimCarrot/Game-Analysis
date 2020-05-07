@@ -1,0 +1,46 @@
+{
+    "engineServiceParameters": {
+        "name": "MyFirstPolicyApexEngine",
+        "version": "0.0.1",
+        "id": 102,
+        "instanceCount": 4,
+        "deploymentPort": 12345,
+        "policyModelFileName": "examples/ApexFiles/policy/GameAnalysis.json",
+        "engineParameters": {
+            "executorParameters": {
+                "MVEL": {
+                    "parameterClassName": "org.onap.policy.apex.plugins.executor.mvel.MvelExecutorParameters"
+                },
+                "JAVASCRIPT": {
+                    "parameterClassName": "org.onap.policy.apex.plugins.executor.javascript.JavascriptExecutorParameters"
+                }
+            }
+        }
+    },
+    "eventOutputParameters": {
+        "FirstProducer": {
+            "carrierTechnologyParameters": {
+                "carrierTechnology": "FILE",
+                "parameters": {
+                    "standardIo": true
+                }
+            },
+            "eventProtocolParameters": {
+                "eventProtocol": "JSON"
+            }
+        }
+    },
+    "eventInputParameters": {
+        "FirstConsumer": {
+            "carrierTechnologyParameters": {
+                "carrierTechnology": "FILE",
+                "parameters": {
+                    "standardIo": true
+                }
+            },
+            "eventProtocolParameters": {
+                "eventProtocol": "JSON"
+            }
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "nameSpace": "gamecontext.com",
+  "name": "gameContextEvent",
+  "version":"0.0.1",
+  "gameName": "Outlast",
+  "gameGenre": "Scary",
+  "userName": "Simon Harper",
+  "frWeight": 0.2,
+  "hrWeight": 0.8
+}

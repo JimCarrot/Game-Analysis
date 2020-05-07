@@ -1,0 +1,1364 @@
+{
+   "apexPolicyModel" : {
+      "key" : {
+         "name" : "GameAnalysis",
+         "version" : "0.0.1"
+      },
+      "keyInformation" : {
+         "key" : {
+            "name" : "GameAnalysis_KeyInfo",
+            "version" : "0.0.1"
+         },
+         "keyInfoMap" : {
+            "entry" : [ {
+               "key" : {
+                  "name" : "GameAnalysis",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "GameAnalysis",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "ecb25509-6990-481e-89f1-7cf0127ede75",
+                  "description" : "Generated description for a concept called \"GameAnalysis\" with version \"null\" and UUID \"ecb25509-6990-481e-89f1-7cf0127ede75\""
+               }
+            }, {
+               "key" : {
+                  "name" : "GameAnalysis_Albums",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "GameAnalysis_Albums",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "d0cf9f4c-830c-3fab-943c-edf8d4f44ff7",
+                  "description" : "Generated description for concept referred to by key \"GameAnalysis_Albums:0.0.1\""
+               }
+            }, {
+               "key" : {
+                  "name" : "GameAnalysis_Events",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "GameAnalysis_Events",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "8e8950b4-41ba-3814-8017-d35b4c58b8cf",
+                  "description" : "Generated description for concept referred to by key \"GameAnalysis_Events:0.0.1\""
+               }
+            }, {
+               "key" : {
+                  "name" : "GameAnalysis_KeyInfo",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "GameAnalysis_KeyInfo",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "71b4c5f7-e4d7-3687-bef4-f7306817e381",
+                  "description" : "Generated description for concept referred to by key \"GameAnalysis_KeyInfo:0.0.1\""
+               }
+            }, {
+               "key" : {
+                  "name" : "GameAnalysis_Policies",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "GameAnalysis_Policies",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "f4d9ba7a-7e7c-3a72-8137-26ffa7b20fc2",
+                  "description" : "Generated description for concept referred to by key \"GameAnalysis_Policies:0.0.1\""
+               }
+            }, {
+               "key" : {
+                  "name" : "GameAnalysis_Schemas",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "GameAnalysis_Schemas",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "e8a776e8-cce0-3227-b1b3-d2a493ee205e",
+                  "description" : "Generated description for concept referred to by key \"GameAnalysis_Schemas:0.0.1\""
+               }
+            }, {
+               "key" : {
+                  "name" : "GameAnalysis_Tasks",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "GameAnalysis_Tasks",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "ae881b2b-9542-35a2-bc7a-0ea181356c7f",
+                  "description" : "Generated description for concept referred to by key \"GameAnalysis_Tasks:0.0.1\""
+               }
+            }, {
+               "key" : {
+                  "name" : "endTime",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "endTime",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "85ebe983-ebba-4e22-b6d2-2645f5a60b65",
+                  "description" : "Generated description for a concept called \"endTime\" with version \"null\" and UUID \"85ebe983-ebba-4e22-b6d2-2645f5a60b65\""
+               }
+            }, {
+               "key" : {
+                  "name" : "facialExpressionAlbum",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "facialExpressionAlbum",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "8e7772b4-effe-4c9c-abb5-cf1c5dd261d8",
+                  "description" : "Generated description for a concept called \"facialExpressionAlbum\" with version \"null\" and UUID \"8e7772b4-effe-4c9c-abb5-cf1c5dd261d8\""
+               }
+            }, {
+               "key" : {
+                  "name" : "facialExpressionEvent",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "facialExpressionEvent",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "f9bdb6a6-33df-3db5-a4dd-cd46adfc2d64",
+                  "description" : "Generated description for a concept called \"facialExpressionEvent\" with version \"null\" and UUID \"90ace377-6461-4814-81e8-9bdb206ac17c\""
+               }
+            }, {
+               "key" : {
+                  "name" : "facialExpressionPolicy",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "facialExpressionPolicy",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "66654e64-280d-491b-9afd-b4ddd0d4c4fe",
+                  "description" : "Generated description for a concept called \"facialExpressionPolicy\" with version \"0.0.1\" and UUID \"66654e64-280d-491b-9afd-b4ddd0d4c4fe\""
+               }
+            }, {
+               "key" : {
+                  "name" : "facialExpressionTask",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "facialExpressionTask",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "5b9b8171-85d1-38e9-9370-25cc71c54e35",
+                  "description" : "Generated description for a concept called \"facialExpressionTask\" with version \"0.0.1\" and UUID \"d44aa185-30d2-4798-9e2c-2b103fe9bd4d\""
+               }
+            }, {
+               "key" : {
+                  "name" : "facialExpressions",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "facialExpressions",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "f2137e4f-f5f4-476d-ab0a-d7fe785dc448",
+                  "description" : "Generated description for a concept called \"facialExpressions\" with version \"null\" and UUID \"f2137e4f-f5f4-476d-ab0a-d7fe785dc448\""
+               }
+            }, {
+               "key" : {
+                  "name" : "frWeight",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "frWeight",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "297e6f46-18e0-4a1a-8172-62e5fcb250a9",
+                  "description" : "Generated description for a concept called \"frWeight\" with version \"null\" and UUID \"297e6f46-18e0-4a1a-8172-62e5fcb250a9\""
+               }
+            }, {
+               "key" : {
+                  "name" : "gameContextEvent",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "gameContextEvent",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "102a5bf8-e35d-3728-8165-e3a821b669c3",
+                  "description" : "Generated description for a concept called \"gameContextEvent\" with version \"null\" and UUID \"eaaf2a91-4a7d-4d60-91fd-f0f93810d881\""
+               }
+            }, {
+               "key" : {
+                  "name" : "gameContextPolicy",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "gameContextPolicy",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "5e73807f-2772-4a84-9724-c3f8d1b39d73",
+                  "description" : "Generated description for a concept called \"gameContextPolicy\" with version \"0.0.1\" and UUID \"5e73807f-2772-4a84-9724-c3f8d1b39d73\""
+               }
+            }, {
+               "key" : {
+                  "name" : "gameContextTask",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "gameContextTask",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "57e61f73-83be-3b03-a46b-73d627da9f00",
+                  "description" : "Generated description for a concept called \"gameContextTask\" with version \"0.0.1\" and UUID \"cd22d757-20b8-4b79-9d4e-bf96f32d6eeb\""
+               }
+            }, {
+               "key" : {
+                  "name" : "gameGenre",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "gameGenre",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "cfa36fde-a6f9-4a8b-9cc5-0a08f145a78c",
+                  "description" : "Generated description for a concept called \"gameGenre\" with version \"null\" and UUID \"cfa36fde-a6f9-4a8b-9cc5-0a08f145a78c\""
+               }
+            }, {
+               "key" : {
+                  "name" : "gameName",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "gameName",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "bc38c7b0-cce8-4d22-af18-1b0a5e76bfca",
+                  "description" : "Generated description for a concept called \"gameName\" with version \"null\" and UUID \"bc38c7b0-cce8-4d22-af18-1b0a5e76bfca\""
+               }
+            }, {
+               "key" : {
+                  "name" : "gameScore",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "gameScore",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "ea91e78d-1258-3a1b-adb6-75ca9fb614a1",
+                  "description" : "Generated description for a concept called \"gameScore\" with version \"null\" and UUID \"cce20143-162b-4d8e-a550-c88f03ae2e35\""
+               }
+            }, {
+               "key" : {
+                  "name" : "gameScoreEvent",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "gameScoreEvent",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "b8829e02-3397-3303-bd68-3c078c8da72d",
+                  "description" : "Generated description for a concept called \"gameScoreEvent\" with version \"null\" and UUID \"cd6d38ed-896f-4fc5-ba25-b3aebc76f063\""
+               }
+            }, {
+               "key" : {
+                  "name" : "heartRateAlbum",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "heartRateAlbum",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "3849c9cf-7790-3ad3-834d-7204aed05f3f",
+                  "description" : "Generated description for a concept called \"heartRateAlbum\" with version \"null\" and UUID \"839771fe-7442-4702-a8a8-9ff832a011fc\""
+               }
+            }, {
+               "key" : {
+                  "name" : "heartRateEvent",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "heartRateEvent",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "d5b48ec8-04e1-3ba6-953c-4e730b51e1b2",
+                  "description" : "Generated description for a concept called \"heartRateEvent\" with version \"null\" and UUID \"5a471112-ba5a-4a5f-a7c1-1fdc792de055\""
+               }
+            }, {
+               "key" : {
+                  "name" : "heartRatePolicy",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "heartRatePolicy",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "0dd9d7cc-daca-4116-8880-b2ad31dbe0fe",
+                  "description" : "Generated description for a concept called \"heartRatePolicy\" with version \"0.0.1\" and UUID \"0dd9d7cc-daca-4116-8880-b2ad31dbe0fe\""
+               }
+            }, {
+               "key" : {
+                  "name" : "heartRateTask",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "heartRateTask",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "efe67439-60ae-3e26-a97d-0e40763bd634",
+                  "description" : "Generated description for a concept called \"heartRateTask\" with version \"null\" and UUID \"dd04c6c8-9617-409c-a2db-786e22ca8ac4\""
+               }
+            }, {
+               "key" : {
+                  "name" : "heartRateVariables",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "heartRateVariables",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "b21ccc8c-18e6-4554-ba76-a10cabc933b9",
+                  "description" : "Generated description for a concept called \"heartRateVariables\" with version \"null\" and UUID \"b21ccc8c-18e6-4554-ba76-a10cabc933b9\""
+               }
+            }, {
+               "key" : {
+                  "name" : "hrWeight",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "hrWeight",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "26cd0208-b2ef-4e37-98e1-f25c4b44fee7",
+                  "description" : "Generated description for a concept called \"hrWeight\" with version \"null\" and UUID \"26cd0208-b2ef-4e37-98e1-f25c4b44fee7\""
+               }
+            }, {
+               "key" : {
+                  "name" : "startDate",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "startDate",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "0cd54316-1e47-4e06-bf77-5f91dee3738c",
+                  "description" : "Generated description for a concept called \"FacialRecognition\" with version \"null\" and UUID \"0cd54316-1e47-4e06-bf77-5f91dee3738c\""
+               }
+            }, {
+               "key" : {
+                  "name" : "startTime",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "startTime",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "9fc7d317-7fe3-43b5-8613-8f8fa776bcc7",
+                  "description" : "Generated description for a concept called \"startTime\" with version \"null\" and UUID \"9fc7d317-7fe3-43b5-8613-8f8fa776bcc7\""
+               }
+            }, {
+               "key" : {
+                  "name" : "userName",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "userName",
+                     "version" : "0.0.1"
+                  },
+                  "UUID" : "3c9379e3-626f-442c-9eae-49e26628b331",
+                  "description" : "Generated description for a concept called \"userName\" with version \"null\" and UUID \"3c9379e3-626f-442c-9eae-49e26628b331\""
+               }
+            } ]
+         }
+      },
+      "policies" : {
+         "key" : {
+            "name" : "GameAnalysis_Policies",
+            "version" : "0.0.1"
+         },
+         "policyMap" : {
+            "entry" : [ {
+               "key" : {
+                  "name" : "facialExpressionPolicy",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "policyKey" : {
+                     "name" : "facialExpressionPolicy",
+                     "version" : "0.0.1"
+                  },
+                  "template" : "FREEFORM",
+                  "state" : {
+                     "entry" : [ {
+                        "key" : "facialExpressionStorage",
+                        "value" : {
+                           "stateKey" : {
+                              "parentKeyName" : "facialExpressionPolicy",
+                              "parentKeyVersion" : "0.0.1",
+                              "parentLocalName" : "NULL",
+                              "localName" : "facialExpressionStorage"
+                           },
+                           "trigger" : {
+                              "name" : "facialExpressionEvent",
+                              "version" : "0.0.1"
+                           },
+                           "stateOutputs" : {
+                              "entry" : [ {
+                                 "key" : "facialExpressionOutput",
+                                 "value" : {
+                                    "key" : {
+                                       "parentKeyName" : "facialExpressionPolicy",
+                                       "parentKeyVersion" : "0.0.1",
+                                       "parentLocalName" : "facialExpressionStorage",
+                                       "localName" : "facialExpressionOutput"
+                                    },
+                                    "outgoingEvent" : {
+                                       "name" : "facialExpressionEvent",
+                                       "version" : "0.0.1"
+                                    },
+                                    "nextState" : {
+                                       "parentKeyName" : "NULL",
+                                       "parentKeyVersion" : "0.0.0",
+                                       "parentLocalName" : "NULL",
+                                       "localName" : "NULL"
+                                    }
+                                 }
+                              } ]
+                           },
+                           "contextAlbumReference" : [ ],
+                           "taskSelectionLogic" : {
+                              "key" : "NULL",
+                              "logicFlavour" : "UNDEFINED",
+                              "logic" : ""
+                           },
+                           "stateFinalizerLogicMap" : {
+                              "entry" : [ ]
+                           },
+                           "defaultTask" : {
+                              "name" : "facialExpressionTask",
+                              "version" : "0.0.1"
+                           },
+                           "taskReferences" : {
+                              "entry" : [ {
+                                 "key" : {
+                                    "name" : "facialExpressionTask",
+                                    "version" : "0.0.1"
+                                 },
+                                 "value" : {
+                                    "key" : {
+                                       "parentKeyName" : "facialExpressionPolicy",
+                                       "parentKeyVersion" : "0.0.1",
+                                       "parentLocalName" : "facialExpressionStorage",
+                                       "localName" : "facialExpressionTask"
+                                    },
+                                    "outputType" : "DIRECT",
+                                    "output" : {
+                                       "parentKeyName" : "facialExpressionPolicy",
+                                       "parentKeyVersion" : "0.0.1",
+                                       "parentLocalName" : "facialExpressionStorage",
+                                       "localName" : "facialExpressionOutput"
+                                    }
+                                 }
+                              } ]
+                           }
+                        }
+                     } ]
+                  },
+                  "firstState" : "facialExpressionStorage"
+               }
+            }, {
+               "key" : {
+                  "name" : "gameContextPolicy",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "policyKey" : {
+                     "name" : "gameContextPolicy",
+                     "version" : "0.0.1"
+                  },
+                  "template" : "FREEFORM",
+                  "state" : {
+                     "entry" : [ {
+                        "key" : "gameContextState",
+                        "value" : {
+                           "stateKey" : {
+                              "parentKeyName" : "gameContextPolicy",
+                              "parentKeyVersion" : "0.0.1",
+                              "parentLocalName" : "NULL",
+                              "localName" : "gameContextState"
+                           },
+                           "trigger" : {
+                              "name" : "gameContextEvent",
+                              "version" : "0.0.1"
+                           },
+                           "stateOutputs" : {
+                              "entry" : [ {
+                                 "key" : "gameScoreOutput",
+                                 "value" : {
+                                    "key" : {
+                                       "parentKeyName" : "gameContextPolicy",
+                                       "parentKeyVersion" : "0.0.1",
+                                       "parentLocalName" : "gameContextState",
+                                       "localName" : "gameScoreOutput"
+                                    },
+                                    "outgoingEvent" : {
+                                       "name" : "gameScoreEvent",
+                                       "version" : "0.0.1"
+                                    },
+                                    "nextState" : {
+                                       "parentKeyName" : "NULL",
+                                       "parentKeyVersion" : "0.0.0",
+                                       "parentLocalName" : "NULL",
+                                       "localName" : "NULL"
+                                    }
+                                 }
+                              } ]
+                           },
+                           "contextAlbumReference" : [ ],
+                           "taskSelectionLogic" : {
+                              "key" : "NULL",
+                              "logicFlavour" : "UNDEFINED",
+                              "logic" : ""
+                           },
+                           "stateFinalizerLogicMap" : {
+                              "entry" : [ ]
+                           },
+                           "defaultTask" : {
+                              "name" : "gameContextTask",
+                              "version" : "0.0.1"
+                           },
+                           "taskReferences" : {
+                              "entry" : [ {
+                                 "key" : {
+                                    "name" : "gameContextTask",
+                                    "version" : "0.0.1"
+                                 },
+                                 "value" : {
+                                    "key" : {
+                                       "parentKeyName" : "gameContextPolicy",
+                                       "parentKeyVersion" : "0.0.1",
+                                       "parentLocalName" : "gameContextState",
+                                       "localName" : "gameContextTask"
+                                    },
+                                    "outputType" : "DIRECT",
+                                    "output" : {
+                                       "parentKeyName" : "gameContextPolicy",
+                                       "parentKeyVersion" : "0.0.1",
+                                       "parentLocalName" : "gameContextState",
+                                       "localName" : "gameScoreOutput"
+                                    }
+                                 }
+                              } ]
+                           }
+                        }
+                     } ]
+                  },
+                  "firstState" : "gameContextState"
+               }
+            }, {
+               "key" : {
+                  "name" : "heartRatePolicy",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "policyKey" : {
+                     "name" : "heartRatePolicy",
+                     "version" : "0.0.1"
+                  },
+                  "template" : "FREEFORM",
+                  "state" : {
+                     "entry" : [ {
+                        "key" : "heartRateStorage",
+                        "value" : {
+                           "stateKey" : {
+                              "parentKeyName" : "heartRatePolicy",
+                              "parentKeyVersion" : "0.0.1",
+                              "parentLocalName" : "NULL",
+                              "localName" : "heartRateStorage"
+                           },
+                           "trigger" : {
+                              "name" : "heartRateEvent",
+                              "version" : "0.0.1"
+                           },
+                           "stateOutputs" : {
+                              "entry" : [ {
+                                 "key" : "heartRateOutput",
+                                 "value" : {
+                                    "key" : {
+                                       "parentKeyName" : "heartRatePolicy",
+                                       "parentKeyVersion" : "0.0.1",
+                                       "parentLocalName" : "heartRateStorage",
+                                       "localName" : "heartRateOutput"
+                                    },
+                                    "outgoingEvent" : {
+                                       "name" : "heartRateEvent",
+                                       "version" : "0.0.1"
+                                    },
+                                    "nextState" : {
+                                       "parentKeyName" : "NULL",
+                                       "parentKeyVersion" : "0.0.0",
+                                       "parentLocalName" : "NULL",
+                                       "localName" : "NULL"
+                                    }
+                                 }
+                              } ]
+                           },
+                           "contextAlbumReference" : [ ],
+                           "taskSelectionLogic" : {
+                              "key" : "NULL",
+                              "logicFlavour" : "UNDEFINED",
+                              "logic" : ""
+                           },
+                           "stateFinalizerLogicMap" : {
+                              "entry" : [ ]
+                           },
+                           "defaultTask" : {
+                              "name" : "heartRateTask",
+                              "version" : "0.0.1"
+                           },
+                           "taskReferences" : {
+                              "entry" : [ {
+                                 "key" : {
+                                    "name" : "heartRateTask",
+                                    "version" : "0.0.1"
+                                 },
+                                 "value" : {
+                                    "key" : {
+                                       "parentKeyName" : "heartRatePolicy",
+                                       "parentKeyVersion" : "0.0.1",
+                                       "parentLocalName" : "heartRateStorage",
+                                       "localName" : "heartRateTask"
+                                    },
+                                    "outputType" : "DIRECT",
+                                    "output" : {
+                                       "parentKeyName" : "heartRatePolicy",
+                                       "parentKeyVersion" : "0.0.1",
+                                       "parentLocalName" : "heartRateStorage",
+                                       "localName" : "heartRateOutput"
+                                    }
+                                 }
+                              } ]
+                           }
+                        }
+                     } ]
+                  },
+                  "firstState" : "heartRateStorage"
+               }
+            } ]
+         }
+      },
+      "tasks" : {
+         "key" : {
+            "name" : "GameAnalysis_Tasks",
+            "version" : "0.0.1"
+         },
+         "taskMap" : {
+            "entry" : [ {
+               "key" : {
+                  "name" : "facialExpressionTask",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "facialExpressionTask",
+                     "version" : "0.0.1"
+                  },
+                  "inputFields" : {
+                     "entry" : [ {
+                        "key" : "endTime",
+                        "value" : {
+                           "key" : "endTime",
+                           "fieldSchemaKey" : {
+                              "name" : "endTime",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     }, {
+                        "key" : "facialExpressions",
+                        "value" : {
+                           "key" : "facialExpressions",
+                           "fieldSchemaKey" : {
+                              "name" : "facialExpressions",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     }, {
+                        "key" : "startDate",
+                        "value" : {
+                           "key" : "startDate",
+                           "fieldSchemaKey" : {
+                              "name" : "startDate",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     }, {
+                        "key" : "startTime",
+                        "value" : {
+                           "key" : "startTime",
+                           "fieldSchemaKey" : {
+                              "name" : "startTime",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     } ]
+                  },
+                  "outputFields" : {
+                     "entry" : [ {
+                        "key" : "endTime",
+                        "value" : {
+                           "key" : "endTime",
+                           "fieldSchemaKey" : {
+                              "name" : "endTime",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     }, {
+                        "key" : "facialExpressions",
+                        "value" : {
+                           "key" : "facialExpressions",
+                           "fieldSchemaKey" : {
+                              "name" : "facialExpressions",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     }, {
+                        "key" : "startDate",
+                        "value" : {
+                           "key" : "startDate",
+                           "fieldSchemaKey" : {
+                              "name" : "startDate",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     }, {
+                        "key" : "startTime",
+                        "value" : {
+                           "key" : "startTime",
+                           "fieldSchemaKey" : {
+                              "name" : "startTime",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     } ]
+                  },
+                  "taskParameters" : {
+                     "entry" : [ ]
+                  },
+                  "contextAlbumReference" : [ {
+                     "name" : "facialExpressionAlbum",
+                     "version" : "0.0.1"
+                  } ],
+                  "taskLogic" : {
+                     "key" : "TaskLogic",
+                     "logicFlavour" : "JAVASCRIPT",
+                     "logic" : "executor.logger.info(executor.inFields.get(\"facialExpressions\"));\n\nvar facialExpressionAlbum = executor.getContextAlbum(\"facialExpressionAlbum\");\nvar facialExpressions = facialExpressionAlbum.get(\"facialExpressions\")+executor.inFields.get(\"facialExpressions\")\nfacialExpressionAlbum.put(\"facialExpressions\", facialExpressions);\nfacialExpressionAlbum.put(\"startDate\", executor.inFields.get(\"startDate\"));\nfacialExpressionAlbum.put(\"startTime\", executor.inFields.get(\"startTime\"));\nfacialExpressionAlbum.put(\"endTime\", executor.inFields.get(\"endTime\"));\n\nexecutor.outFields.put(\"facialExpressions\", facialExpressionAlbum.get(\"facialExpressions\"));\nexecutor.outFields.put(\"startDate\", facialExpressionAlbum.get(\"startDate\"));\nexecutor.outFields.put(\"startTime\", facialExpressionAlbum.get(\"startTime\"));\nexecutor.outFields.put(\"endTime\", facialExpressionAlbum.get(\"endTime\"));\n\nvar returnValue = executor.isTrue;"
+                  }
+               }
+            }, {
+               "key" : {
+                  "name" : "gameContextTask",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "gameContextTask",
+                     "version" : "0.0.1"
+                  },
+                  "inputFields" : {
+                     "entry" : [ {
+                        "key" : "frWeight",
+                        "value" : {
+                           "key" : "frWeight",
+                           "fieldSchemaKey" : {
+                              "name" : "frWeight",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     }, {
+                        "key" : "gameGenre",
+                        "value" : {
+                           "key" : "gameGenre",
+                           "fieldSchemaKey" : {
+                              "name" : "gameGenre",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     }, {
+                        "key" : "gameName",
+                        "value" : {
+                           "key" : "gameName",
+                           "fieldSchemaKey" : {
+                              "name" : "gameName",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     }, {
+                        "key" : "hrWeight",
+                        "value" : {
+                           "key" : "hrWeight",
+                           "fieldSchemaKey" : {
+                              "name" : "hrWeight",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     }, {
+                        "key" : "userName",
+                        "value" : {
+                           "key" : "userName",
+                           "fieldSchemaKey" : {
+                              "name" : "userName",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     } ]
+                  },
+                  "outputFields" : {
+                     "entry" : [ {
+                        "key" : "gameGenre",
+                        "value" : {
+                           "key" : "gameGenre",
+                           "fieldSchemaKey" : {
+                              "name" : "gameGenre",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     }, {
+                        "key" : "gameName",
+                        "value" : {
+                           "key" : "gameName",
+                           "fieldSchemaKey" : {
+                              "name" : "gameName",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     }, {
+                        "key" : "gameScore",
+                        "value" : {
+                           "key" : "gameScore",
+                           "fieldSchemaKey" : {
+                              "name" : "gameScore",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     } ]
+                  },
+                  "taskParameters" : {
+                     "entry" : [ ]
+                  },
+                  "contextAlbumReference" : [ {
+                     "name" : "facialExpressionAlbum",
+                     "version" : "0.0.1"
+                  }, {
+                     "name" : "heartRateAlbum",
+                     "version" : "0.0.1"
+                  } ],
+                  "taskLogic" : {
+                     "key" : "TaskLogic",
+                     "logicFlavour" : "JAVASCRIPT",
+                     "logic" : "var facialExpressionAlbum = executor.getContextAlbum(\"facialExpressionAlbum\");\nvar heartRateAlbum = executor.getContextAlbum(\"heartRateAlbum\");\n\nvar facialArray = facialExpressionAlbum.get(\"facialExpressions\").split(\",\");\nvar heartArray = heartRateAlbum.get(\"heartRateVariables\").split(\",\");\n\nvar startDate = facialExpressionAlbum.get(\"startDate\");\nvar startTime = facialExpressionAlbum.get(\"startTime\");\nvar endTime = facialExpressionAlbum.get(\"endTime\");\n\nvar genre = \"\"+executor.inFields.get(\"gameGenre\");\n\nvar loggedExpression = 0;\nvar loggedHeartRate = 0;\n\nfacialExpressionAlbum.clear();\nheartRateAlbum.clear();\n\n\nvar time1 = new Date(startDate+\" \"+startTime);\nvar time2 = new Date(startDate+\" \"+endTime);\n\nfor(var i = 0; i<facialArray.length-1; i++){\n\tvar facialData = facialArray[i].split(\"/\");\n\tvar timestamp = facialData[0];\n\tvar expressionData = facialData[1].split(\"-\");\n\tvar maxIndex = 0;\n\tvar maxIndex2 = 0;\n\tvar max = 0;\n\tfor(var i2 = 0; i2<expressionData.length; i2++){\n\t\tif(max<parseFloat(expressionData[i2])){\n\t\t\tmax = parseFloat(expressionData[i2]);\n\t\t\tmaxIndex = i2;\n\t\t}\n\t}\n\texpressionData.splice(maxIndex,1);\n\tmax = 0;\n\tfor(var i2 = 0; i2<expressionData.length; i2++){\n\t\tif(max<parseFloat(expressionData[i2])){\n\t\t\tmax = parseFloat(expressionData[i2]);\n\t\t\tmaxIndex2 = i2;\n\t\t}\n\t}\n\tif(genre == \"Scary\"){\n\t\tif(maxIndex == 2 || (maxIndex == 6 && maxIndex2 == 2)){\n\t\t\tloggedExpression++;\n\t\t}\n\t}\n\tif(genre == \"Neutral\"){\n\t\tif(maxIndex == 6){\n\t\t\tloggedExpression++;\n\t\t}\n\t}\n\tloggedExpression++;\n\tvar date = new Date(startDate+\" \"+timestamp)\n\t\n}\n\nfor(var i3 = 0; i3<heartArray.length-1;i3++){\n\tvar heartData = heartArray[i3].split(\"/\");\n\tvar heartTimestamp = heartData[0];\n\tvar date2 = new Date(startDate+\" \"+heartTimestamp);\n\tloggedHeartRate++;\n\tif((time1.getHours()===date2.getHours() && time1.getMinutes()<date2.getMinutes()) || time1.getHours()<date2.getHours() || date2.getHours()<time2.getHours || (date2.getHours()===time2.getHours() && date2.getMinutes()<time2.getMinutes())){\n\t\tif(genre == \"Neutral\"){\n\t\t\tif(parseInt(heartData[1]>64)){\n\t\t\t\tloggedHeartRate++;\n\t\t\t}\n\t\t}\n\t\tif(genre == \"Scary\"){\n\t\t\tif(parseInt(heartData[1]<64)){\n\t\t\t\tloggedHeartRate++;\n\t\t\t}\n\t\t}\n\t}\t\n}\n\nvar totalTime = time2.getTime()-time1.getTime();\nvar facialWeight = executor.inFields.get(\"frWeight\");\nvar heartWeight = executor.inFields.get(\"hrWeight\");\nvar totalWeightedSum = ((loggedExpression/totalTime)*(facialWeight))+((loggedHeartRate/totalTime)*(heartWeight));\nexecutor.outFields.put(\"gameScore\", totalWeightedSum*1000);\nexecutor.outFields.put(\"gameGenre\", genre);\nexecutor.outFields.put(\"gameName\", executor.inFields.get(\"gameName\"));\n\nexecutor.logger.info(executor.outFields);\n\nvar returnValue = executor.isTrue;"
+                  }
+               }
+            }, {
+               "key" : {
+                  "name" : "heartRateTask",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "heartRateTask",
+                     "version" : "0.0.1"
+                  },
+                  "inputFields" : {
+                     "entry" : [ {
+                        "key" : "heartRateVariables",
+                        "value" : {
+                           "key" : "heartRateVariables",
+                           "fieldSchemaKey" : {
+                              "name" : "heartRateVariables",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     } ]
+                  },
+                  "outputFields" : {
+                     "entry" : [ {
+                        "key" : "heartRateVariables",
+                        "value" : {
+                           "key" : "heartRateVariables",
+                           "fieldSchemaKey" : {
+                              "name" : "heartRateVariables",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     } ]
+                  },
+                  "taskParameters" : {
+                     "entry" : [ ]
+                  },
+                  "contextAlbumReference" : [ {
+                     "name" : "heartRateAlbum",
+                     "version" : "0.0.1"
+                  } ],
+                  "taskLogic" : {
+                     "key" : "TaskLogic",
+                     "logicFlavour" : "JAVASCRIPT",
+                     "logic" : "executor.logger.info(executor.inFields);\n\nvar heartRateAlbum = executor.getContextAlbum(\"heartRateAlbum\");\n\nvar heartRateVariables = heartRateAlbum.get(\"heartRateVariables\")+executor.inFields.get(\"heartRateVariables\");\n\nheartRateAlbum.put(\"heartRateVariables\", heartRateVariables);\n\nexecutor.outFields.put(\"heartRateVariables\", heartRateAlbum.get(\"heartRateVariables\"));\n\nvar returnValue = executor.isTrue;"
+                  }
+               }
+            } ]
+         }
+      },
+      "events" : {
+         "key" : {
+            "name" : "GameAnalysis_Events",
+            "version" : "0.0.1"
+         },
+         "eventMap" : {
+            "entry" : [ {
+               "key" : {
+                  "name" : "facialExpressionEvent",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "facialExpressionEvent",
+                     "version" : "0.0.1"
+                  },
+                  "nameSpace" : "facialexpression.com",
+                  "source" : "APEX",
+                  "target" : "POS",
+                  "parameter" : {
+                     "entry" : [ {
+                        "key" : "endTime",
+                        "value" : {
+                           "key" : "endTime",
+                           "fieldSchemaKey" : {
+                              "name" : "endTime",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     }, {
+                        "key" : "facialExpressions",
+                        "value" : {
+                           "key" : "facialExpressions",
+                           "fieldSchemaKey" : {
+                              "name" : "facialExpressions",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     }, {
+                        "key" : "startDate",
+                        "value" : {
+                           "key" : "startDate",
+                           "fieldSchemaKey" : {
+                              "name" : "startDate",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     }, {
+                        "key" : "startTime",
+                        "value" : {
+                           "key" : "startTime",
+                           "fieldSchemaKey" : {
+                              "name" : "startTime",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     } ]
+                  }
+               }
+            }, {
+               "key" : {
+                  "name" : "gameContextEvent",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "gameContextEvent",
+                     "version" : "0.0.1"
+                  },
+                  "nameSpace" : "gamecontext.com",
+                  "source" : "APEX",
+                  "target" : "POS",
+                  "parameter" : {
+                     "entry" : [ {
+                        "key" : "frWeight",
+                        "value" : {
+                           "key" : "frWeight",
+                           "fieldSchemaKey" : {
+                              "name" : "frWeight",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     }, {
+                        "key" : "gameGenre",
+                        "value" : {
+                           "key" : "gameGenre",
+                           "fieldSchemaKey" : {
+                              "name" : "gameGenre",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     }, {
+                        "key" : "gameName",
+                        "value" : {
+                           "key" : "gameName",
+                           "fieldSchemaKey" : {
+                              "name" : "gameName",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     }, {
+                        "key" : "hrWeight",
+                        "value" : {
+                           "key" : "hrWeight",
+                           "fieldSchemaKey" : {
+                              "name" : "hrWeight",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     }, {
+                        "key" : "userName",
+                        "value" : {
+                           "key" : "userName",
+                           "fieldSchemaKey" : {
+                              "name" : "userName",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     } ]
+                  }
+               }
+            }, {
+               "key" : {
+                  "name" : "gameScoreEvent",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "gameScoreEvent",
+                     "version" : "0.0.1"
+                  },
+                  "nameSpace" : "gamescore.com",
+                  "source" : "APEX",
+                  "target" : "POS",
+                  "parameter" : {
+                     "entry" : [ {
+                        "key" : "gameGenre",
+                        "value" : {
+                           "key" : "gameGenre",
+                           "fieldSchemaKey" : {
+                              "name" : "gameGenre",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     }, {
+                        "key" : "gameName",
+                        "value" : {
+                           "key" : "gameName",
+                           "fieldSchemaKey" : {
+                              "name" : "gameName",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     }, {
+                        "key" : "gameScore",
+                        "value" : {
+                           "key" : "gameScore",
+                           "fieldSchemaKey" : {
+                              "name" : "gameScore",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     } ]
+                  }
+               }
+            }, {
+               "key" : {
+                  "name" : "heartRateEvent",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "heartRateEvent",
+                     "version" : "0.0.1"
+                  },
+                  "nameSpace" : "heartrate.com",
+                  "source" : "APEX",
+                  "target" : "POS",
+                  "parameter" : {
+                     "entry" : [ {
+                        "key" : "heartRateVariables",
+                        "value" : {
+                           "key" : "heartRateVariables",
+                           "fieldSchemaKey" : {
+                              "name" : "heartRateVariables",
+                              "version" : "0.0.1"
+                           },
+                           "optional" : false
+                        }
+                     } ]
+                  }
+               }
+            } ]
+         }
+      },
+      "albums" : {
+         "key" : {
+            "name" : "GameAnalysis_Albums",
+            "version" : "0.0.1"
+         },
+         "albums" : {
+            "entry" : [ {
+               "key" : {
+                  "name" : "facialExpressionAlbum",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "facialExpressionAlbum",
+                     "version" : "0.0.1"
+                  },
+                  "scope" : "GLOBAL",
+                  "isWritable" : true,
+                  "itemSchema" : {
+                     "name" : "facialExpressions",
+                     "version" : "0.0.1"
+                  }
+               }
+            }, {
+               "key" : {
+                  "name" : "heartRateAlbum",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "heartRateAlbum",
+                     "version" : "0.0.1"
+                  },
+                  "scope" : "GLOBAL",
+                  "isWritable" : true,
+                  "itemSchema" : {
+                     "name" : "heartRateVariables",
+                     "version" : "0.0.1"
+                  }
+               }
+            } ]
+         }
+      },
+      "schemas" : {
+         "key" : {
+            "name" : "GameAnalysis_Schemas",
+            "version" : "0.0.1"
+         },
+         "schemas" : {
+            "entry" : [ {
+               "key" : {
+                  "name" : "endTime",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "endTime",
+                     "version" : "0.0.1"
+                  },
+                  "schemaFlavour" : "Java",
+                  "schemaDefinition" : "java.lang.String"
+               }
+            }, {
+               "key" : {
+                  "name" : "facialExpressions",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "facialExpressions",
+                     "version" : "0.0.1"
+                  },
+                  "schemaFlavour" : "Java",
+                  "schemaDefinition" : "java.lang.String"
+               }
+            }, {
+               "key" : {
+                  "name" : "frWeight",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "frWeight",
+                     "version" : "0.0.1"
+                  },
+                  "schemaFlavour" : "Java",
+                  "schemaDefinition" : "java.lang.Double"
+               }
+            }, {
+               "key" : {
+                  "name" : "gameGenre",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "gameGenre",
+                     "version" : "0.0.1"
+                  },
+                  "schemaFlavour" : "Java",
+                  "schemaDefinition" : "java.lang.String"
+               }
+            }, {
+               "key" : {
+                  "name" : "gameName",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "gameName",
+                     "version" : "0.0.1"
+                  },
+                  "schemaFlavour" : "Java",
+                  "schemaDefinition" : "java.lang.String"
+               }
+            }, {
+               "key" : {
+                  "name" : "gameScore",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "gameScore",
+                     "version" : "0.0.1"
+                  },
+                  "schemaFlavour" : "Java",
+                  "schemaDefinition" : "java.lang.Double"
+               }
+            }, {
+               "key" : {
+                  "name" : "heartRateVariables",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "heartRateVariables",
+                     "version" : "0.0.1"
+                  },
+                  "schemaFlavour" : "Java",
+                  "schemaDefinition" : "java.lang.String"
+               }
+            }, {
+               "key" : {
+                  "name" : "hrWeight",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "hrWeight",
+                     "version" : "0.0.1"
+                  },
+                  "schemaFlavour" : "Java",
+                  "schemaDefinition" : "java.lang.Double"
+               }
+            }, {
+               "key" : {
+                  "name" : "startDate",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "startDate",
+                     "version" : "0.0.1"
+                  },
+                  "schemaFlavour" : "Java",
+                  "schemaDefinition" : "java.lang.String"
+               }
+            }, {
+               "key" : {
+                  "name" : "startTime",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "startTime",
+                     "version" : "0.0.1"
+                  },
+                  "schemaFlavour" : "Java",
+                  "schemaDefinition" : "java.lang.String"
+               }
+            }, {
+               "key" : {
+                  "name" : "userName",
+                  "version" : "0.0.1"
+               },
+               "value" : {
+                  "key" : {
+                     "name" : "userName",
+                     "version" : "0.0.1"
+                  },
+                  "schemaFlavour" : "Java",
+                  "schemaDefinition" : "java.lang.String"
+               }
+            } ]
+         }
+      }
+   }
+}
